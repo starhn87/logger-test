@@ -1,5 +1,0 @@
-
-logging: 
-    file: /usr/local/logs 
-    level: 
-        com.project.package: info
