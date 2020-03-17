@@ -1,0 +1,17 @@
+[2020-03-17 14:57:14:78762][restartedMain] INFO  com.daumsoft.test.DemoApplication - Starting DemoApplication on Daumsoft-Seungwoo with PID 8488 (C:\Users\Daumsoft\Desktop\test\bin\main started by Daumsoft in C:\Users\Daumsoft\Desktop\test)
+[2020-03-17 14:57:14:78762][restartedMain] INFO  com.daumsoft.test.DemoApplication - No active profile set, falling back to default profiles: default
+[2020-03-17 14:57:14:79270][restartedMain] INFO  com.daumsoft.test.DemoApplication - Started DemoApplication in 0.565 seconds (JVM running for 79.551)
+[2020-03-17 14:57:17:81998][restartedMain] INFO  com.daumsoft.test.DemoApplication - Starting DemoApplication on Daumsoft-Seungwoo with PID 8488 (C:\Users\Daumsoft\Desktop\test\bin\main started by Daumsoft in C:\Users\Daumsoft\Desktop\test)
+[2020-03-17 14:57:17:82007][restartedMain] INFO  com.daumsoft.test.DemoApplication - No active profile set, falling back to default profiles: default
+[2020-03-17 14:57:17:82525][restartedMain] INFO  com.daumsoft.test.DemoApplication - Started DemoApplication in 0.587 seconds (JVM running for 82.806)
+[2020-03-17 14:57:30:95167][http-nio-8080-exec-1] INFO  com.daumsoft.test.MainController - test
+[2020-03-17 14:57:46:111525][http-nio-8080-exec-2] INFO  com.daumsoft.test.MainController - test
+[2020-03-17 14:57:51:115853][http-nio-8080-exec-3] INFO  com.daumsoft.test.MainController - test
+[2020-03-17 14:58:02:126956][http-nio-8080-exec-4] INFO  com.daumsoft.test.MainController - test
+[2020-03-17 14:58:15:140022][http-nio-8080-exec-5] INFO  com.daumsoft.test.MainController - test
+[2020-03-17 14:59:50:235398][restartedMain] INFO  com.daumsoft.test.DemoApplication - Starting DemoApplication on Daumsoft-Seungwoo with PID 8488 (C:\Users\Daumsoft\Desktop\test\bin\main started by Daumsoft in C:\Users\Daumsoft\Desktop\test)
+[2020-03-17 14:59:50:235400][restartedMain] DEBUG com.daumsoft.test.DemoApplication - Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+[2020-03-17 14:59:50:235400][restartedMain] INFO  com.daumsoft.test.DemoApplication - No active profile set, falling back to default profiles: default
+[2020-03-17 14:59:51:236020][restartedMain] INFO  com.daumsoft.test.DemoApplication - Started DemoApplication in 0.684 seconds (JVM running for 236.301)
+[2020-03-17 15:00:02:246998][http-nio-8080-exec-1] INFO  com.daumsoft.test.MainController - test
+[2020-03-17 15:00:17:262501][http-nio-8080-exec-5] INFO  com.daumsoft.test.MainController - test
